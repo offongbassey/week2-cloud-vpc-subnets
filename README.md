@@ -8,5 +8,9 @@ Custom VPC setup with public/private subnets, route tables, and IGW &amp; NAT Ga
 - Set up NAT Gateway
 - Verified EC2 connectivity
 
+## 📸 Screenshots
 ### VPC Creation
 ![VPC Creation](screenshots/vpc-creation.png)
+
+### Public Subnet
+![Public Subnet](screenshots/public-subnet.png)
