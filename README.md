@@ -17,3 +17,6 @@ Custom VPC setup with public/private subnets, route tables, and IGW &amp; NAT Ga
 
 ### Private Subnet
 ![Private Subnet](screenshots/private-subnet.png)
+
+### Route Table (Public)
+![Route Table Public](screenshots/route-table-public.png)
